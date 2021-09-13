@@ -32,13 +32,11 @@ request.onerror = function (event) {
 function saveRecord(record) {
   // open a new transaction with the database with read and write permissions 
   const transaction = db.transaction(['budget_tracker'], 'readwrite');
-
-  // access the object store
   const budgetObjectStore = transaction.objectStore('budget_tracker');
 
-  // add record to your store with add method
+  // add record to your store with add method.
   budgetObjectStore.add(record);
-}
+};
 
 function uploadBudget() {
   // open a transaction on your pending db
