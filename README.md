@@ -9,8 +9,8 @@ Progressive Web Applicatoin that allows offline functionality for a better user 
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
-* [Github](#Github)
-* [Heroku](#Heroku)
+* [Github](#github)
+* [Heroku](#heroku)
 * [License](#license)
 
 ## Installation
