@@ -18,6 +18,7 @@ Navigate to the github repository and clone repo. If newer versions of packages 
 
 ## Usage
 The application is also deployed on heroku and front end functionality available to anyone. Attached are screenshots of the application in use as well as walkthrough video.
+![image](https://user-images.githubusercontent.com/82545902/133946846-d2220d23-ae44-4ac1-88a0-0147df990710.png)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
