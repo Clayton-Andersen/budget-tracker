@@ -7,6 +7,7 @@ Progressive Web Applicatoin that allows offline functionality for a better user 
 
 ## Table of Contents
 * [Installation](#installation)
+* [Technologies])(#technologies)
 * [Usage](#usage)
 * [Credits](#credits)
 * [Github](#github)
@@ -14,7 +15,13 @@ Progressive Web Applicatoin that allows offline functionality for a better user 
 * [License](#license)
 
 ## Installation
-Navigate to the github repository and clone repo. If newer versions of packages are available you can install necessary packages by accessing the terminal from the root directory and first typing "npm init" to create the package.json, type "npm i mongoose" and then press enter allowing time for the pachages to install. Once installed, you're up and running and now you can simply type "npm start" to get the application running. The app should be available at this point at the url: localhost:3001. Because there isn't a front end, the application routes can be accessed using Insomnia Core.
+Navigate to the github repository and clone repo. If newer versions of packages are available you can install necessary packages by accessing the terminal from the root directory and first typing "npm init" to create the package.json, type "npm i mongoose" and then press enter allowing time for the pachages to install. Once installed, you're up and running and now you can simply type "npm start" to get the application running. The app should be available at this point at the url: localhost:3001.
+
+## Technologies
+* Mongodb
+* Mongoose
+* MongoDB Atlas
+* Heroku
 
 ## Usage
 The application is also deployed on heroku and front end functionality available to anyone. Attached are screenshots of the application in use as well as walkthrough video.
